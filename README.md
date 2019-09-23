@@ -22,4 +22,4 @@ The memory is then dumped into hexadecimal form for the packets recieved. Howeve
 
 sudo ./sniff > file.txt
 
-Improvements and features will be added in the near future.
+Written as a learning excercise
